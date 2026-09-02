@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaroagu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.zohan.tech/api?username=alvaroagu&show_icons=true&rank_icon=percentile&theme=nord)
 
 </div>
